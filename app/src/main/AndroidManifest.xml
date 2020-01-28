@@ -32,7 +32,7 @@
                 -->
                 <data
                     android:host="com.azuresamples.msalandroidapp"
-                    android:path="/1wIqXSqBj7w+h11ZifsnqwgyKrY="
+                    android:path="/VoJhdPSczJ+tXilEGO3xeR6N/Jg="
                     android:scheme="msauth" />
             </intent-filter>
         </activity>
